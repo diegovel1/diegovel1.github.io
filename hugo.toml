@@ -2,3 +2,6 @@ baseURL = 'https://diegovel1.github.io/'
 languageCode = 'es-co'
 title = 'Sitio web de Diego Velásquez'
 theme = 'PaperMod'
+
+[params]
+env = 'production'
