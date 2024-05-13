@@ -30,6 +30,10 @@ Content = "Bienvenidos a mi sitio web."
 name = "github"
 url = "https://github.com/diegovel1"
 
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://mastodon.social/@diegove"
+
 [menu]
 
 [[menu.main]]
