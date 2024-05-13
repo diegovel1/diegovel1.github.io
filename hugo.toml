@@ -5,3 +5,32 @@ theme = 'PaperMod'
 
 [params]
 env = 'production'
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 3
+keys = ["title", "permalink", "summary", "content"]
+
+
+[menu]
+
+[[menu.main]]
+identifier = 'entradas'
+name = 'Entradas'
+url = '/entradas/'
+weight = 10
+
+[[menu.main]]
+identifier = 'buscar'
+name = 'Buscar'
+url = '/search/'
+weight = 20
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+
