@@ -2,6 +2,7 @@ baseURL = 'https://diegovel1.github.io/'
 languageCode = 'es-co'
 title = 'Sitio web de Diego Velásquez'
 theme = 'PaperMod'
+enableEMoji = true
 
 [params]
 env = 'production'
@@ -40,7 +41,7 @@ url = "https://mastodon.social/@diegove"
 
 [[params.socialIcons]]
 name = "x"
-url = "https://twitter.com/DiegoVe90426548"
+url = "https://twitter.com/diegovel11"˝
 
 [[params.socialIcons]]
 name = "youtube"
