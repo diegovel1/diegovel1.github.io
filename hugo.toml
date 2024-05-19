@@ -48,16 +48,22 @@ url = '/entradas/'
 weight = 10
 
 [[menu.main]]
+identifier = 'categorias'
+name = 'Categorías'
+url = '/categories/'
+weight = 20
+
+[[menu.main]]
 identifier = 'archivo'
 name = 'Archivo'
 url = '/archive/'
-weight = 20
+weight = 30
 
 [[menu.main]]
 identifier = 'buscar'
 name = 'Buscar'
 url = '/search/'
-weight = 30
+weight = 40
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
