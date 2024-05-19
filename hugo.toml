@@ -32,10 +32,6 @@ name = "github"
 url = "https://github.com/diegovel1"
 
 [[params.socialIcons]]
-name = "instagram"
-url = "https://www.instagram.com/diegovel9/"
-
-[[params.socialIcons]]
 name = "x"
 url = "https://twitter.com/diegovel11"
 
