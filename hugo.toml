@@ -2,7 +2,7 @@ baseURL = 'https://diegovel1.github.io/'
 languageCode = 'es-co'
 title = 'Sitio web de Diego Velásquez'
 theme = 'PaperMod'
-enableEMoji = true
+enableEmoji = true
 
 [params]
 env = 'production'
@@ -13,6 +13,8 @@ showtoc = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowWordCount = true
+defaultTheme = 'dark'
+disableThemeToggle = true
 
 [params.fuseOpts]
 isCaseSensitive = false
@@ -28,16 +30,11 @@ Title = "Hola."
 Content = "Bienvenidos a mi sitio web."
 
 [[params.socialIcons]]
-name = "github"
-url = "https://github.com/diegovel1"
-
-[[params.socialIcons]]
 name = "x"
 url = "https://twitter.com/diegovel11"
 
-[[params.socialIcons]]
-name = "youtube"
-url = "https://www.youtube.com/channel/UCmXckgqoigLgsJm9UXgAo-g"
+[params.author]
+    email = "diegovel1@protonmail.com"
 
 [menu]
 

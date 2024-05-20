@@ -6,6 +6,16 @@
         {{- else }}
         <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
         {{- end }}
+        <span>| Contacto: <a href="mailto:{{ site.Params.author.email }}">
+            {{ site.Params.author.email }}</a>
+        </span>
+        <span>| 
+            <a href="{{ with .Site.GetPage "entradas/acerca.md" }}{{ .RelPermalink }}{{ end }}">
+                {{ with .Site.GetPage "entradas/acerca.md" }}
+                    {{ .Title }}
+                {{ end }}
+            </a>
+        </span>        
     {{- end }}
 
     {{- with site.Params.footer.text }}

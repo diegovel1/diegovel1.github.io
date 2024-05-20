@@ -1,8 +1,11 @@
 +++
-title = '¡Hola, mundo!'
-date = 2024-05-12T09:24:00-05:00
-draft = false
-categories = ['anuncios']
+title = 'Acerca'
+draft = true
+categories = ['meta']
+ShowReadingTime = false
+ShowShareButtons = false
+ShowBreadCrumbs = false
+ShowWordCount = false
 [params]
     author = 'Diego Velásquez'
 +++
