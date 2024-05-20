@@ -1,6 +1,6 @@
 +++
 title = 'Acerca'
-draft = true
+draft = false
 categories = ['meta']
 ShowReadingTime = false
 ShowShareButtons = false
