@@ -4,7 +4,7 @@ draft = false
 categories = ['meta']
 ShowReadingTime = false
 ShowBreadCrumbs = false
-ShowWordCount = false   
+ShowWordCount = false
 ShowPostNavLinks = false
 [params]
     author = 'Diego Velásquez'
