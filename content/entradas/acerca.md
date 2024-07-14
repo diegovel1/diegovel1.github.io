@@ -15,4 +15,5 @@ Este es mi sitio web.
 
 Aquí encontrarás contenido de diferentes temas de mi interés.
 
-Este sitio web **no** posee códigos de seguimiento, como Google Analytics, por respeto a la privacidad del visitante.
+Este sitio web **no** posee códigos de seguimiento, como Google Analytics, por respeto a tu
+privacidad.
