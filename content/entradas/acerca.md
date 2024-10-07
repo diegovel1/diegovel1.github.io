@@ -9,16 +9,17 @@ ShowPostNavLinks = false
 [params]
     author = 'Diego Velásquez'
 +++
-Yo soy Diego Velásquez.
+En mi sitio web,
 
-En este sitio web encontrarás contenido de diferentes temas de mi interés.
+## Encontrarás:
+- Contenido de mi interés.
+- Conceptos o ideas expresados en texto, emojis y/o código.
 
-Por respeto a tu privacidad, este sitio web **no** posee códigos de
-seguimiento, como Google Analytics.
+## No encontrarás:
+- *Scripts* de seguimiento, como *Google Analytics*, por respeto a tu
+privacidad.
+- Imágenes.
 
-Este sitio web no posee imágenes.
-
-Todas los conceptos o ideas son expresados en texto, emojis o código.
-
-Puedes usar la combinación de teclas `⌘ + k` en MacOS o `Ctrl + k` en
+## Sugerencias:
+- Puedes usar la combinación de teclas `⌘ + k` en MacOS o `Ctrl + k` en
 Windows para ser llevado a la página de búsqueda.
