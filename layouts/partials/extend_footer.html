@@ -1,0 +1,13 @@
+{{- /* Footer custom content area start */ -}}
+{{- /*     Insert any custom code web-analytics, resources, etc. here */ -}}
+
+<script>
+    //Use Cmd/Ctrl + k to navigate to the search page.
+    document.addEventListener('keydown', function(event) {
+        if ((event.ctrlKey || event.metaKey) && event.key === 'k') {
+            window.location.href = '/search'
+        }
+    })
+</script>
+
+{{- /* Footer custom content area end */ -}}
