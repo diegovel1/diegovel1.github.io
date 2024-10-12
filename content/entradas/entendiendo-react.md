@@ -1,7 +1,7 @@
 +++
 title = 'Entendiendo React'
 date = 2024-10-11T23:40:07-05:00
-draft = true
+draft = false
 categories = ['javascript']
 [params]
     author = 'Diego Velásquez'
