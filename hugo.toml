@@ -26,8 +26,8 @@ minMatchCharLength = 3
 keys = ["title", "permalink", "summary", "content"]
 
 [params.homeInfoParams]
-Title = "Hola."
-Content = "Bienvenidos a mi sitio web."
+Title = "Bienvenidos"
+Content = "Redes sociales"
 
 [[params.socialIcons]]
 name = "x"
@@ -36,6 +36,14 @@ url = "https://twitter.com/diegovel11"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/diegovel1"
+
+[[params.socialIcons]]
+name = "instagram"
+url = "https://instagram.com/diegovel9"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "https://youtube.com/@diegovel2"
 
 [params.author]
     email = "diegovel1@protonmail.com"
