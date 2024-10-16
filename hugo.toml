@@ -6,6 +6,7 @@ enableEmoji = true
 
 [params]
 env = 'production'
+GoogleAnalyticsID = 'G-ZJWEMQMWBG'
 ShowReadingTime = true
 ShowShareButtons = true
 ShowCodeCopyButtons = true
@@ -17,8 +18,6 @@ defaultTheme = 'dark'
 disableThemeToggle = true
 social = true
 
-[params.analytics.google]
-SiteVerificationTag = 'G-ZJWEMQMWBG'
 
 [params.fuseOpts]
 isCaseSensitive = false
