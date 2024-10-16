@@ -1,7 +1,7 @@
 +++
 title = 'Funcionamiento de un Arraylist en Zig'
 date = 2024-10-14T14:41:27-05:00
-draft = true
+draft = false
 categories = ['zig']
 [params]
     author = 'Diego Velásquez'
