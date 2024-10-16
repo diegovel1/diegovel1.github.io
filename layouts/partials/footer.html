@@ -10,8 +10,8 @@
             {{ site.Params.author.email }}</a>
         </span>
         <span>|
-            <a href="{{ with .Site.GetPage "entradas/acerca.md" }}{{ .RelPermalink }}{{ end }}">
-                {{ with .Site.GetPage "entradas/acerca.md" }}
+            <a href="{{ with .Site.GetPage "archive" }}{{ .RelPermalink }}{{ end }}">
+                {{ with .Site.GetPage "archive" }}
                     {{ .Title }}
                 {{ end }}
             </a>

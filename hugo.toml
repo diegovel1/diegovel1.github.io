@@ -15,6 +15,10 @@ ShowBreadCrumbs = true
 ShowWordCount = true
 defaultTheme = 'dark'
 disableThemeToggle = true
+social = true
+
+[params.analytics.google]
+SiteVerificationTag = 'G-ZJWEMQMWBG'
 
 [params.fuseOpts]
 isCaseSensitive = false
@@ -26,8 +30,8 @@ minMatchCharLength = 3
 keys = ["title", "permalink", "summary", "content"]
 
 [params.homeInfoParams]
-Title = "Bienvenidos"
-Content = "Redes sociales"
+Title = "Notas públicas"
+Content = "Sistemas, economía, sociedad. Apuntes de mi cosmología."
 
 [[params.socialIcons]]
 name = "x"
@@ -63,16 +67,10 @@ url = '/categories/'
 weight = 20
 
 [[menu.main]]
-identifier = 'archivo'
-name = 'Archivo'
-url = '/archive/'
+identifier = 'acerca'
+name = 'Acerca'
+url = '/acerca'
 weight = 30
-
-[[menu.main]]
-identifier = 'buscar'
-name = 'Buscar'
-url = '/search/'
-weight = 40
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
