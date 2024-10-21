@@ -52,6 +52,10 @@ url = "https://youtube.com/@diegovel2"
 name = "bluesky"
 url = "https://bsky.app/profile/diegovel.com"
 
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://mastodon.social/@diegovel"
+
 [params.author]
     email = "diegovel1@protonmail.com"
 
