@@ -48,6 +48,10 @@ url = "https://instagram.com/diegovel9"
 name = "youtube"
 url = "https://youtube.com/@diegovel2"
 
+[[params.socialIcons]]
+name = "bluesky"
+url = "https://bsky.app/profile/diegovel.com"
+
 [params.author]
     email = "diegovel1@protonmail.com"
 
