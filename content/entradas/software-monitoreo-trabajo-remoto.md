@@ -1,7 +1,7 @@
 +++
 title = 'Sobre el software de monitoreo en el trabajo remoto'
 date = 2024-10-21T17:09:14-05:00
-draft = true
+draft = false
 categories = ['trabajo']
 [params]
     author = 'Diego Velásquez'
