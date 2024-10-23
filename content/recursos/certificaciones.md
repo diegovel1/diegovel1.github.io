@@ -1,6 +1,6 @@
 +++
 title = 'Certificaciones'
-draft = true
+draft = false
 categories = ['recursos']
 ShowReadingTime = false
 ShowBreadCrumbs = false
