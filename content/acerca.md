@@ -13,6 +13,7 @@ En este sitio web,
 
 ## Encontrarás:
 - Contenido de mi interés en variedad de temas.
+- [Recursos](/recursos/)
 
 ## Sugerencias:
 - Puedes usar la combinación de teclas `⌘ + k` en MacOS o `Ctrl + k` en
