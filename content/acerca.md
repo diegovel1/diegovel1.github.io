@@ -12,8 +12,8 @@ ShowPostNavLinks = false
 En este sitio web,
 
 ## Encontrarás:
-- Contenido de mi interés en variedad de temas.
-- [Recursos](/recursos/)
+- Contenido de mi interés en variedad de [categorías](/categories/).
+- [Recursos](/recursos/) relevantes sobre mí.
 
 ## Sugerencias:
 - Puedes usar la combinación de teclas `⌘ + k` en MacOS o `Ctrl + k` en
