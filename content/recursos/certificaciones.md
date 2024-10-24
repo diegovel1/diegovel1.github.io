@@ -1,7 +1,7 @@
 +++
 title = 'Certificaciones'
 draft = false
-categories = ['recursos']
+categories = ['meta']
 ShowReadingTime = false
 ShowBreadCrumbs = false
 ShowWordCount = false
